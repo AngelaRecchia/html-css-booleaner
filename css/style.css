@@ -28,3 +28,21 @@ h1 {
 .small {
     font-size: 10px;
 }
+
+.highlight {
+    background-color: #FFFF00;
+}
+
+thead {
+    background-color: #20A9E5;
+    color: white;
+    text-align: left;
+}
+
+.color {
+    background-color: #B1E5F2;
+}
+
+.sizetable{
+    width: 50%;
+}
